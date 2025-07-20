@@ -8,7 +8,13 @@
 				"/Users/iancoxon/Documents/Unreal Projects/GAM207_IanCoxon/Content/Map/TestLevel.umap",
 				"/Users/iancoxon/Documents/Unreal Projects/GAM207_IanCoxon/Content/Player/PlayerCont_BP.uasset",
 				"/Users/iancoxon/Documents/Unreal Projects/GAM207_IanCoxon/Content/Player/PlayerChar_BP.uasset",
-				"/Users/iancoxon/Documents/Unreal Projects/GAM207_IanCoxon/Content/Player/ArenaMode.uasset"
+				"/Users/iancoxon/Documents/Unreal Projects/GAM207_IanCoxon/Content/Player/ArenaMode.uasset",
+				"/Users/iancoxon/Documents/Unreal Projects/GAM207_IanCoxon/Content/Player/_BP.uasset",
+				"/Users/iancoxon/Documents/Unreal Projects/GAM207_IanCoxon/Content/Player/PlayerProj_BP.uasset",
+				"/Users/iancoxon/Documents/Unreal Projects/GAM207_IanCoxon/Content/Player/ProjectileColor.uasset",
+				"/Users/iancoxon/Documents/Unreal Projects/GAM207_IanCoxon/Content/Player/Enemy.uasset",
+				"/Users/Shared/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"/Users/Shared/Epic Games/UE_5.6/Engine/Content/BasicShapes/Cube.uasset"
 			]
 		}
 	]
