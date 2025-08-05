@@ -1,1 +1,28 @@
-Saved intermediate files, binaries, and build folders
+# Unreal Engine Git Ignore
+# =========================
+
+# Project folders to include
+!Content/**
+!Config/**
+!Source/**
+!*.uproject
+
+# Ignore build/cache/temp
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+
+# Ignore compiled builds and auto backups
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Ignore system/IDE junk
+.DS_Store
+*.log
+Thumbs.db
