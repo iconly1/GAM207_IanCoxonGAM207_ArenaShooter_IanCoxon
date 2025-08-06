@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"M:/Content/AI/AIChar_BP.uasset",
+				"M:/Content/Map/TestLevel.umap",
 				"/Users/iancoxon/Documents/Unreal Projects/GAM207_IanCoxon/Content/Map/TestLevel.umap",
 				"/Users/iancoxon/Documents/Unreal Projects/GAM207_IanCoxon/Content/Player/PlayerCont_BP.uasset",
 				"/Users/iancoxon/Documents/Unreal Projects/GAM207_IanCoxon/Content/Player/PlayerChar_BP.uasset",
